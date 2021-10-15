@@ -1,0 +1,56 @@
+html {
+    
+    background: black;
+    
+}
+#Titulo_Pagina{
+    color : green;
+    font-family:"Homer Simpson UI";
+    font-weight: bold;
+}
+#subtitulo_pagina{
+    font-weight: bold;
+    font-family:"Homer Simpson UI";
+}
+#Categorias {
+    margin-left: auto;
+}
+
+.contacto {
+    font-weight: bold;
+}
+
+.categoria{
+    font-weight: bold;
+    font-family:"Homer Simpson UI";
+}
+
+.botones{
+
+     left: 0;
+     margin: 0;
+     
+     right: 0;
+     text-align: center;
+     top: 100%; 
+      
+}
+
+.posicionar_letras{
+       
+     left: 0;
+     position: absolute;
+     right: 0;
+     bottom :8% ;
+       
+}
+
+.ofertas {
+    left: 0;
+    position: absolute;
+    right: 0;
+    bottom :12% ;
+}
+
+
+    
